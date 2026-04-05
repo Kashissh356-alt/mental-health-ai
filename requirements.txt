@@ -1,0 +1,12 @@
+streamlit
+opencv-python-headless
+deepface
+transformers
+torch
+gtts
+groq
+SpeechRecognition
+streamlit-mic-recorder
+tf-keras
+numpy
+Pillow
