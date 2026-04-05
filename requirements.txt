@@ -1,13 +1,13 @@
-streamlit==1.56.0
+streamlit
 opencv-python-headless
-deepface
+deepface==0.0.79
+tensorflow==2.13.0
+keras==2.13.0
 transformers
 torch
 gtts
 groq
 SpeechRecognition
 streamlit-mic-recorder
-tf-keras
 numpy
 Pillow
-retina-face
